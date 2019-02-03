@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Tool Name :- IP-Tracer
-# Author :- Rajkumar Dusad
+# Author :- ØSC4R O’4S1S
 # Date :- 10/10/2018
 # Powered By :- Aex Software's
 case "$1" in
